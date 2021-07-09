@@ -87,7 +87,7 @@ For the purposes of uncovering the most profitable trading algorithm, the traini
 
 ## Contributors
 
-New development created by Scientia Capital. Code from 'Initial commit.' commit originates from UC Berkeley Extension and I do not claim original ownership nor scholarship.
+New development created by Santiago . Code from 'Initial commit.' commit originates from UC Berkeley Extension and I do not claim original ownership nor scholarship.
 
 ---
 

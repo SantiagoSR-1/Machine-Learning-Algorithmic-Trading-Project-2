@@ -29,20 +29,14 @@ Before attempting to execute any Python code in machine_learning_trading_bot.ipy
 With your _Python 3.7+_ environment, run the following commands via CLI:
 
 ```
-import pandas as pd
-import numpy as np
 from pathlib import Path
-import hvplot.pandas as hv
+import numpy as np
+import pandas as pd
+import pandas_datareader.data as web
+import zipline
+import pyfolio as pf
 import matplotlib.pyplot as plt
-from holoviews.ipython import display
-from sklearn import svm
-from sklearn.svm import SVC
-from sklearn.preprocessing import StandardScaler
-from pandas.tseries.offsets import DateOffset
-from sklearn.metrics import classification_report
-import datetime as dt
-from finta import TA
-from sklearn.linear_model import LogisticRegression
+import seaborn as sns
 
 ```
 

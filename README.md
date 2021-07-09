@@ -10,17 +10,19 @@ This notebook consists of analyzing the cumulative returns of two different mach
 
 Before attempting to execute any Python code in machine_learning_trading_bot.ipynb, it is imperative that your development environment holds the following modules:
 
+[pathlib](https://docs.python.org/3/library/pathlib.html) - Object-oriented filesystem path module
+
 [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module
 
 [numpy](https://numpy.org/install/) - Numerical computing module
 
-[pathlib](https://docs.python.org/3/library/pathlib.html) - Object-oriented filesystem path module
+[zipline]() -  module
 
-[hvplot](https://hvplot.holoviz.org/) - Interactive plotting module
+[pyfolio]() - module
 
-[matplotlib](https://matplotlib.org/) - Plotting module
+[matplotlib]() -  module
 
-[sklearn](https://sklearn.org/) - Machine learning module
+[seaborn]() -  module
 
 ---
 
@@ -81,7 +83,7 @@ For the purposes of uncovering the most profitable trading algorithm, the traini
 
 ## Contributors
 
-New development created by Santiago . Code from 'Initial commit.' commit originates from UC Berkeley Extension and I do not claim original ownership nor scholarship.
+New development created by Santiago . Code from 'Initial commit.' commit originates from UC Berkeley Extension and AlgoTrading Book.  We do not claim original ownership nor scholarship.
 
 ---
 

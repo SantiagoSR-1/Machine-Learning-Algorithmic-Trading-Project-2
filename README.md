@@ -1,6 +1,6 @@
 # Machine Learning Algorithmic Trading Project 2
 
-![Machine_Learning_Algorithmic Trading Project 2](../Images/algoimage1.jpeg)
+![Machine_Learning_Algorithmic Trading Project 2](./Images/algoimage1.jpeg)
 
 Algorithmic trading relies on computer programs that execute algorithms to automate some or all elements of a trading strategy. Algorithms are a sequence of steps or rules designed to achieve a goal. They can take many forms and facilitate optimization throughout the investment process, from idea generation to asset allocation, trade execution, and risk management.
 

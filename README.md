@@ -14,13 +14,17 @@ Ultimately, the goal of active investment management is to generate alpha, defin
 
 Before attempting to execute any Python code in machine_learning_algorithmic_trading_project_2.ipynb, it is helpful if your development environment holds the following modules:
 
-- matplotlib [docs](https://github.com/matplotlib/matplotlib)
+
 - numpy [docs](https://github.com/numpy/numpy)
 - pandas [docs](https://github.com/pydata/pandas)
+- request [docs](https://docs.python-requests.org/en/master/)
+- configparser [docs](https://docs.python.org/3/library/configparser.html)
+- time [docs](https://docs.python.org/3/library/time.html)
 - scipy [docs](https://github.com/scipy/scipy)
 - scikit-learn [docs](https://scikit-learn.org/stable/user_guide.html)
 - TensorFlow [docs](https://www.tensorflow.org/guide)
 - PyTorch [docs](https://pytorch.org/docs/stable/index.html)
+- matplotlib [docs](https://github.com/matplotlib/matplotlib)
 - seaborn [docs](https://github.com/mwaskom/seaborn)
 - statsmodels [docs](https://github.com/statsmodels/statsmodels)
 - Machine Learning Financial Laboratory (mlfinlab) [docs](https://mlfinlab.readthedocs.io/en/latest/)

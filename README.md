@@ -75,7 +75,7 @@ import time
 
 ## Contributors
 
-New development created by Brandon Chen [Brandon Chen](https://www.linkedin.com/in/brandon-chen-61334879/), [Debin Zou](https://www.linkedin.com/in/debinzou/), [Santiago Rosas](https://www.linkedin.com/in/ssrosas/), [Scientia Capital](https://www.linkedin.com/in/scientiacapital/) and Dr. FranQuantStein. Code from 'Initial commit.' commit originates from ML for AlgoTrading - 2nd Edition.  We do not claim original ownership nor scholarship.
+New development created by [Brandon Chen](https://www.linkedin.com/in/brandon-chen-61334879/), [Debin Zou](https://www.linkedin.com/in/debinzou/), [Santiago Rosas](https://www.linkedin.com/in/ssrosas/), [Scientia Capital](https://www.linkedin.com/in/scientiacapital/) and Dr. FranQuantStein. Code from 'Initial commit' originates from ML for AlgoTrading - 2nd Edition.  We do not claim original ownership nor scholarship.
 
 ## Books
 

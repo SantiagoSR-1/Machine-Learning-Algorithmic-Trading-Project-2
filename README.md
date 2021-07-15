@@ -1,13 +1,12 @@
 # Machine Learning Algorithmic Trading Project 2
 
+![Machine_Learning_Algorithmic Trading Project 2](https://github.com/SantiagoSR-1/Machine-Learning-Algorithmic-Trading-Project-2/blob/main/Images/algoimage2.jpeg)
+
 Algorithmic trading relies on computer programs that execute algorithms to automate some or all elements of a trading strategy. Algorithms are a sequence of steps or rules designed to achieve a goal. They can take many forms and facilitate optimization throughout the investment process, from idea generation to asset allocation, trade execution, and risk management.
 
 Machine learning (ML) involves algorithms that learn rules or patterns from data to achieve a goal such as minimizing a prediction error. The examples in this book will illustrate how ML algorithms can extract information from data to support or automate key investment activities. These activities include observing the market and analyzing data to form expectations about the future and decide on placing buy or sell orders, as well as managing the resulting portfolio to produce attractive returns relative to the risk.
 
 Ultimately, the goal of active investment management is to generate alpha, defined as portfolio returns in excess of the benchmark used for evaluation. The fundamental law of active management postulates that the key to generating alpha is having accurate return forecasts combined with the ability to act on these forecasts (Grinold 1989; Grinold and Kahn 2000).
-
-
-[Machine_Learning_Algorithmic Trading Project 2](https://github.com/SantiagoSR-1/Machine-Learning-Algorithmic-Trading-Project-2/blob/main/Images/algoimage2.jpeg)
 
 ---
 

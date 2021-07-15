@@ -7,7 +7,7 @@ Machine learning (ML) involves algorithms that learn rules or patterns from data
 Ultimately, the goal of active investment management is to generate alpha, defined as portfolio returns in excess of the benchmark used for evaluation. The fundamental law of active management postulates that the key to generating alpha is having accurate return forecasts combined with the ability to act on these forecasts (Grinold 1989; Grinold and Kahn 2000).
 
 
-![Machine_Learning_Algorithmic Trading Project 2](https://github.com/SantiagoSR-1/Machine-Learning-Algorithmic-Trading-Project-2/blob/main/Images/algoimage2.jpeg)
+[Machine_Learning_Algorithmic Trading Project 2](https://github.com/SantiagoSR-1/Machine-Learning-Algorithmic-Trading-Project-2/blob/main/Images/algoimage2.jpeg)
 
 ---
 

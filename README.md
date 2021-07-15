@@ -92,7 +92,6 @@ New development created by Brandon Chen, David Zou, Santiago Rosas, Tim Kipper. 
     - Excellent reference for essential machine learning concepts, available free online
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf), Barber, D., Cambridge University Press, 2012 (updated version available on author's website)
 
----
 ## License
 
 Software tool available for public use. 

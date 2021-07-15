@@ -6,11 +6,6 @@ Machine learning (ML) involves algorithms that learn rules or patterns from data
 
 Ultimately, the goal of active investment management is to generate alpha, defined as portfolio returns in excess of the benchmark used for evaluation. The fundamental law of active management postulates that the key to generating alpha is having accurate return forecasts combined with the ability to act on these forecasts (Grinold 1989; Grinold and Kahn 2000).
 
-It defines the information ratio (IR) to express the value of active management as the ratio of the return difference between the portfolio and a benchmark to the volatility of those returns. It further approximates the IR as the product of
-
-The information coefficient (IC), which measures the quality of forecast as their rank correlation with the outcomes
-The square root of the breadth of a strategy expressed as the number of independent bets on these forecasts
-The competition of sophisticated investors in financial markets implies that making precise predictions to generate alpha requires superior information, either through access to better data, a superior ability to process it, or both. This is where ML comes in: applications of ML for trading (ML4T) typically aim to make more efficient use of a rapidly diversifying range of data to produce both better and more actionable forecasts, thus improving the quality of investment decisions and results.
 
 ![Machine_Learning_AlgoTrading]()
 
@@ -31,8 +26,6 @@ Before attempting to execute any Python code in machine_learning_trading_bot.ipy
 - seaborn [docs](https://github.com/mwaskom/seaborn)
 - statsmodels [docs](https://github.com/statsmodels/statsmodels)
 
----
-
 ## Installation Guide
 
 With your _Python 3.7+_ environment, run the following commands via CLI:
@@ -44,7 +37,7 @@ import config
 import pandas as pd
 import time
 
----
+```
 
 ## Examples
 
@@ -85,15 +78,14 @@ import time
 
 New development created by Brandon Chen, David Zou, Santiago Rosas, Tim Kipper. Code from 'Initial commit.' commit originates from ML for AlgoTrading - 2nd Edition.  We do not claim original ownership nor scholarship.
 
----
-### Books
+## Books
 
 - [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086), Marcos Lopez de Prado, 2018
 - [Quantresearch](http://www.quantresearch.info/index.html) by Marcos López de Prado
 - [Quantitative Trading](http://epchan.blogspot.com/), Ernest Chan
 - [Machine Learning in Finance](https://www.springer.com/gp/book/9783030410674), Dixon, Matthew F., Halperin, Igor, Bilokon, Paul, Springer, 2020
 
-#### Machine Learning
+## Machine Learning
 
 - [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html), Tom Mitchell, McGraw Hill, 1997
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/), Gareth James et al.

@@ -38,15 +38,11 @@ Before attempting to execute any Python code in machine_learning_trading_bot.ipy
 With your _Python 3.7+_ environment, run the following commands via CLI:
 
 ```
-from pathlib import Path
-import numpy as np
+from datetime import datetime
+import requests
+import config
 import pandas as pd
-import pandas_datareader.data as web
-import zipline
-import pyfolio as pf
-import matplotlib.pyplot as plt
-import seaborn as sns
-
+import time
 
 ---
 

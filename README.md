@@ -63,7 +63,7 @@ import time
 
 ---
 
-## Usage  NEED EDITING BELOW
+## Usage
 
 1. Clone repository onto your personal machine.
 

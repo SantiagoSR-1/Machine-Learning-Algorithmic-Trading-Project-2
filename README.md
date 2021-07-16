@@ -1,5 +1,3 @@
-# Machine Learning Algorithmic Trading Project 2
-
 <h1 align="center">
   Machine Learning Algorithmic Trading Project 2
 </h1>

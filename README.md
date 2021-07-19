@@ -49,7 +49,7 @@ import time
 
 ## Examples
 
-Test variables that were created using a one hot encoder instance:
+Test variables that were created using a one hot encoder instance
 ![Variables](Images/test_model_variables.PNG)
 
 Summary description of the test model

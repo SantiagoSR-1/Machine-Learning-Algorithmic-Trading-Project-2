@@ -42,41 +42,42 @@ import requests
 import config
 import pandas as pd
 import time
-
 ```
+
+
+---
 
 ## Examples
 
-![Example_One]()
+Test variables that were created using a one hot encoder instance:
+![Variables](Images/test_model_variables.PNG)
 
-![Example_Two]()
+Summary description of the test model
+![Test_Summary](Images/test_model_summary.PNG)
+
+Model accuracy / loss results for the test model
+![Test_Results](Images/test_model_results.PNG)
+
+Summary description of the alternative model
+![Alternative_Summary](Images/alternative_model_summary.PNG)
+
+Model accuracy / loss results for the alternative model
+![Alternative_Results](Images/alternative_model_results.PNG)
 
 ---
 
 ## Conclusion
 
+Unfortunately, based upon the results of our test model, and alternative model, there is still room for further improvement based upon the accuracy and loss reported.
 
+To further improve upon the model, we would like to posit the follwowing: 
 
----
+* Can an increase in accuracy, and lowering in loss, be achievable by means of culling unnecessary data fed into the model ?
 
-## Baseline
+* Can the model be further improved upon by tying it to another asset of the same class (cryptpcurrency) with more stability / predictability ?
 
-![Example_Three]()
+* Can the model be further improved upon by tying it to another asset of the differing class (stock, bond, etf, etc.) with more stability / predictability ?
 
-
-## Updated Comparison
-
-![Example_Four]()
-
----
-
-## Usage
-
-1. Clone repository onto your personal machine.
-
-2. Open Google Colab link or a Jupyter Notebook via Anaconda Navigator and navigate to the directory in which the file machine_learning_algorithmic_trading_project_2.ipynb is present. All relevant code for this repository will be executed via Google Colab or Jupyter Notebook and no output will be printed to the command line. Ensure that all relevant dependencies and Python modules are installed (see Technologies and Installation Guide for more details) before attempting to execute code within Google Colab or Jupyter Notebook; otherwise, you will receive multiple interpreter errors!
-
-3. With the notebook open, start at the very first cell reading "Machine Learning Algorithmic Trading" (a cell will be active when a rectangular border is surrounding the area in question). Run each cell in sequential order. It is vital that all cells are ran in sequential order or your notebook will generate compiler errors!
 
 ---
 
